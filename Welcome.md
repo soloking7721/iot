@@ -1,20 +1,4 @@
-# Raspberry Pi IoT Practical Lab Manual
 
-This document contains Python scripts, terminal configurations, and pinout diagrams for all **10 IoT Practicals** for Raspberry Pi.
-
----
-
-## Table of Contents
-1. [Display Single LED Blinking Pattern](#1-display-single-led-blinking-pattern)
-2. [Display Three LED Blinking Pattern](#2-display-three-led-blinking-pattern)
-3. [Display Four LED Blinking Pattern](#3-display-four-led-blinking-pattern)
-4. [Display Time over 4-Digit 7-Segment Display](#4-display-time-over-4-digit-7-segment-display)
-5. [Raspberry Pi Based Oscilloscope (ADS1115 / ADS1015)](#5-raspberry-pi-based-oscilloscope-ads1115--ads1015)
-6. [Controlling Raspberry Pi with Telegram App](#6-controlling-raspberry-pi-with-telegram-app)
-7. [Fingerprint Sensor Interfacing](#7-fingerprint-sensor-interfacing)
-8. [Interfacing GPS Module](#8-interfacing-gps-module)
-9. [Interfacing Pi Camera (Image & Video)](#9-interfacing-pi-camera)
-10. [Interfacing RFID Module (Read & Write)](#10-interfacing-rfid-module-read--write)
 
 ---
 
